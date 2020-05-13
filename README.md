@@ -3,10 +3,10 @@
 
 ## Python related repositories
 
-![Tidying excel data using Pandas](https://github.com/elvinado/Tidying-data)
-![Example of simple webscraping using Selenium](https://github.com/elvinado/Scraping-NTM-DEJ)
-![Reading petrophysical log file using Lasio & Welly](https://github.com/elvinado/Learn-Lasio-Welly)
-![Simple demonstration of Diffie-Hellman using Python](https://github.com/elvinado/Diffie-Hellman-Learning)
+[Tidying excel data using Pandas](https://github.com/elvinado/Tidying-data)
+[Example of simple webscraping using Selenium](https://github.com/elvinado/Scraping-NTM-DEJ)
+[Reading petrophysical log file using Lasio & Welly](https://github.com/elvinado/Learn-Lasio-Welly)
+[Simple demonstration of Diffie-Hellman using Python](https://github.com/elvinado/Diffie-Hellman-Learning)
 
 <hr>
 
