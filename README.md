@@ -1,18 +1,21 @@
-# Pythonic Epiphany
 
+# Boostrap 4 Github Pages
 
-## Python related repositories
+[![Build Status](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages.svg?branch=master)](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages)
 
-- [Tidying excel data using Pandas](https://elvinado.github.io/notebooks/Tidying-data.html)
-- [Example of simple webscraping using Selenium](https://github.com/elvinado/Scraping-NTM-DEJ)
-- [Reading petrophysical log file using Lasio & Welly](https://github.com/elvinado/Learn-Lasio-Welly)
-- [Simple demonstration of Diffie-Hellman using Python](https://github.com/elvinado/Diffie-Hellman-Learning)
+A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
+* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
+* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
+* Full support of Bootstrap's JavaScript plugins.
+* Supports all features of Github Pages and Jekyll.
 
-<hr>
+[See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
 
-## About the Author:
+## Contribution
 
-<a href="https://www.linkedin.com/in/alvin-alexander-75370943/">Alvin Alexander</a> is a marathon runner with a strong inclination for scripting & programming while working in oil & gas industry. Chemist by training, data management by trade, learner by vocation.
+[See the contribution guide.](./CONTRIBUTING.md)
 
-<hr>
+## License
+
+[See the license file.](./LICENSE.md)
